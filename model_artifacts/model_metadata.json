@@ -1,0 +1,12 @@
+{
+  "features": [
+    "study_hours",
+    "attendance_pct",
+    "prev_exam_score",
+    "assignment_score"
+  ],
+  "target": "final_score",
+  "n_estimators": 100,
+  "random_state": 42,
+  "disclaimer": "Trained on a fully synthetic dataset. Results do not reflect real-world student performance."
+}
